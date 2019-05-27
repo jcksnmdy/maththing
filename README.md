@@ -1,1 +1,1 @@
-# maththing
+# My Math quad calculator
